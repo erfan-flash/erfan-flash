@@ -1,5 +1,5 @@
 ## Hi, I'm Erfn 👋 
-[Cat](![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+(![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JyazVrbmRydnR3MHdhcmx2ZXc0dXowMXJ2N2lqMHIxMWMwanJucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BcZZaMtMBmakw/giphy.gif))
 👨‍🎓 Computer Engineering student <br>💻 Aspiring Backend Developer
 
 # 💻 Tech Stack:

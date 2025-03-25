@@ -1,5 +1,5 @@
 ## Hi, I'm Erfn 👋 
-![Cat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JyazVrbmRydnR3MHdhcmx2ZXc0dXowMXJ2N2lqMHIxMWMwanJucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BcZZaMtMBmakw/giphy.gif)
+![Cat](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k1bzQ3ZzB6b2Mwanl3eTczenh6amx5YXkzcHBhZHR4Z3psaHl4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DdVaY3qS8lXCzD1veY/giphy.gif)<br>
 👨‍🎓 Computer Engineering student <br>💻 Aspiring Backend Developer
 
 # 💻 Tech Stack:

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erfan</h1>
 
 <h3 align="center">A computer Engineer Student</h3>
-- 🔭 I’m currently working on [a compiler(well sort of)](https://github.com/erfan-flash/pinky-interpreter-and-compiler)
+## 🔭 I’m currently working on [a compiler(well sort of)](https://github.com/erfan-flash/pinky-interpreter-and-compiler)
 
 - 🌱 I’m currently learning **Django and Go**
 
